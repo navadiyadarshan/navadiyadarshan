@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://darshan-navadiya.netlify.app](https://darshan-navadiya.netlify.app)
+- 👨‍💻 All of my projects are available at [darshan-navadiya](https://darshan-navadiya.netlify.app)
 
 - 📫 How to reach me **darshan.navadiya3156@gmail.com**
 
