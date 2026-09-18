@@ -17,6 +17,8 @@ jobs:
     permissions:
       contents: write
 
+    timeout-minutes: 10
+
     steps:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -27,7 +29,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
