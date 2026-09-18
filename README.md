@@ -37,11 +37,12 @@
   <img
     src="./profile/stats.svg"
     alt="Darshan's GitHub Stats"
+    width="48%"
   />
-
   <img
     src="./profile/top-langs.svg"
     alt="Darshan's Top Languages"
+    width="48%"
   />
 </p>
 
