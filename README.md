@@ -29,17 +29,16 @@
   </picture>
 </p>
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=navadiyadarshan&show_icons=true&theme=transparent&hide_border=true"
-    height="180"
+    alt="Darshan's GitHub Stats"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=navadiyadarshan&layout=compact&theme=transparent&hide_border=true"
-    height="180"
+    alt="Darshan's Top Languages"
   />
 </p>
 
