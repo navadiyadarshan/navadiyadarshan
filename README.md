@@ -13,13 +13,6 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=navadiyadarshan&theme=github-compact&hide_border=true&area=true"
-    alt="Darshan's GitHub Activity Graph"
-  />
-</p>
-
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
