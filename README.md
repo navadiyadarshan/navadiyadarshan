@@ -29,6 +29,7 @@
   </picture>
 </p>
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -36,6 +37,7 @@
     src="https://github-readme-stats.vercel.app/api?username=navadiyadarshan&show_icons=true&theme=transparent&hide_border=true"
     alt="Darshan's GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=navadiyadarshan&layout=compact&theme=transparent&hide_border=true"
     alt="Darshan's Top Languages"
