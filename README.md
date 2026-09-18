@@ -35,12 +35,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=navadiyadarshan&show_icons=true&theme=transparent&hide_border=true"
+    src="./profile/stats.svg"
     alt="Darshan's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=navadiyadarshan&layout=compact&theme=transparent&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Darshan's Top Languages"
   />
 </p>
